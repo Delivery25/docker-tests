@@ -1,0 +1,43 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Logs
+*.log
+logs/
+
+# TestNG
+test-output/
+test-report.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VCS
+.svn/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Other
+*.swp
+*.bak
+*~
+*.orig
